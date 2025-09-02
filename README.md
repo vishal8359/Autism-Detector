@@ -24,12 +24,12 @@ This project leverages **data preprocessing, feature engineering, and classifica
 ---
 
 ## 📂 Project Structure
-Autism-Detector/
-│
-├── data/ # Dataset files
-├── notebooks/ # Jupyter notebooks for EDA & model training
-├── models/ # Saved ML/DL models
-├── app.py # Flask/Streamlit app
-├── requirements.txt # Dependencies
-└── README.md # Project documentation
+- **Autism-Detector :**
+
+- ├── data/ # Dataset files
+- ├── notebooks/ # Jupyter notebooks for EDA & model training
+- ├── models/ # Saved ML/DL models
+- ├── app.py # Flask/Streamlit app
+- ├── requirements.txt # Dependencies
+- └── README.md # Project documentation
 
